@@ -1,0 +1,16 @@
+# Ignorar a pasta de build (códigos compilados)
+build/
+
+# Ignorar arquivos de cache do NetBeans
+nbproject/private/
+
+# Ignorar arquivos temporários de sistema
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignorar arquivos específicos do Mac/Windows
+.DS_Store
+Thumbs.db
