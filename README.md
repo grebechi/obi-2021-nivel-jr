@@ -1,4 +1,4 @@
-# 🧠 Projeto OBI 2021 - Nível Júnior (Java - NetBeans)
+# Projeto OBI 2021 - Nível Júnior (Java - NetBeans)
 
 Este repositório agrupa a resolução dos exercícios da **Olimpíada Brasileira de Informática (OBI) 2021 - Nível Júnior**, utilizando a linguagem **Java** com a **IDE NetBeans**.
 
@@ -6,7 +6,7 @@ O projeto faz parte das atividades do grupo de estudos **CodeSkills**, vinculado
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto está dividido em **pacotes**, organizados conforme as **fases da OBI**:
 
@@ -18,8 +18,8 @@ Cada exercício é implementado em uma **classe Java própria**, contendo um mé
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/grebechi/obi-2021-java-nivel-jr.git
+   git clone https://github.com/grebechi/obi-2021-nivel-jr.git
