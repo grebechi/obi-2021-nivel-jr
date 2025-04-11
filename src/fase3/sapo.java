@@ -4,7 +4,7 @@ package fase3;
 
 import java.util.Scanner;
 
-public class sr_sapo {
+public class sapo {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
