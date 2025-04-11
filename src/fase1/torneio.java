@@ -6,7 +6,7 @@ package fase1;
 
 import java.util.Scanner;
 
-public class torneio_de_tenis {
+public class torneio { //O nome do arquivo deve ser torneio.java para a correção automática
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         
